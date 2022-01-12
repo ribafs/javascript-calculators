@@ -2,10 +2,10 @@
 
 ## Simplest javascript calculator
 
-## Only sum and simple
+## Only sum and simple code
 calc_sum.html
 
-## Four operations and simplel
+## Four operations and simple code
 calc_js.htm
 
 ## Four operations and simplel and only one function and form
