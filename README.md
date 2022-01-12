@@ -27,6 +27,8 @@ https://www.codigofonte.com.br/codigos/calculadora-em-html-e-javascript
 
 https://comodesenvolver.com.br/como-criar-uma-calculadora-cientifica-usando-html-javascript-e-css/
 
+http://www.devin.com.br/calculadoras-javascript/
+
 ## License
 
 MIT
