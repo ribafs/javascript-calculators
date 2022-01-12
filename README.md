@@ -2,15 +2,20 @@
 
 ## Simplest javascript calculator
 
-## Only sum and simple - calc_sum.html
+## Only sum and simple
+calc_sum.html
 
-## Four operations and simplel - calc_js.htm
+## Four operations and simplel
+calc_js.htm
 
-## Four operations and simplel and only one function and form - calc_js2.html
+## Four operations and simplel and only one function and form
+calc_js2.html
 
-## With keyboard and simple code - calc_js3.html
+## With keyboard and simple code
+calc_js3.html
 
-## Scientific calculator - calc_cient.html
+## Scientific calculator
+calc_cient.html
 
 ## References
 
