@@ -12,7 +12,10 @@ function calc() {
     result = parseFloat(num1.value) - parseFloat(num2.value);
   }else if(op.value === '*'){
     result = parseFloat(num1.value) * parseFloat(num2.value);
-  }else if(op.value === '/'){
+  }else if(op.value === '/' && num2.value == 0){
+    alert('The second number cannot be zero');    
+    return;
+  }else{
     result = parseFloat(num1.value) / parseFloat(num2.value);
   }
   alert(result);
@@ -22,7 +25,7 @@ function calc() {
 // https://medium.com/@singhamritpal49/creating-simple-addition-calculator-with-javascript-563ede3527e2
 </script>
 
-<h3>Simple Calculator</h3>
+<h3>Simple Javascript Calculator</h3>
 <input type="text" id="n1">
 <select name="select" id="op">
   <option value="+" selected>+</option>
