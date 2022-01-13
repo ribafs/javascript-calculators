@@ -5,7 +5,7 @@
 ## Only sum and simple code
 calc_sum.html
 
-### Example shared in group HTML, CSS and JS
+### Example shared in Facebook group HTML, CSS and JS
 ```
 <script>
 const add = (...nums) => alert(nums.reduce((a, b) => +a + +b));
