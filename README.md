@@ -1,6 +1,6 @@
 # javascript-calculator
 
-## Simplest javascript calculator
+## Examples from simple sum to scientific calculator
 
 ## Only sum and simple code
 calc_sum.html
