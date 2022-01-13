@@ -5,6 +5,17 @@
 ## Only sum and simple code
 calc_sum.html
 
+### Example shared in group HTML, CSS and JS
+```
+<script>
+const add = (...nums) => alert(nums.reduce((a, b) => +a + +b));
+add(...Array.from({length:2}, _ => prompt('Please enter a number...')));
+//Although if you only see it as 1 input for the entire equation, it could be even more direct.
+alert(eval(prompt('Please enter equation').replace(/[^%+-/*/(/)\d+]/g, '')));
+</script>
+```
+Thank you Shawn John Genlloud
+
 ## Four operations and simple code
 calc_js.htm
 
